@@ -1,0 +1,30 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+
+}
+
+.jobArray {
+	text-align: left;
+}
+
+.jobArray1 {
+	text-decoration: underline;
+}
+
+
+/*export {job, EmploymentType, ExperienceLevels, CompanySize, VersionControlSystem, IssueTrackers, BuildServers, CodeAnalysisTools, KnowledgeRepos, TravelOptions, ScheduleOptions, RemoteWorking, RelocationPackages, OperationSystems, MachineType, Monitors, Level, TrainingType, PTO}; 
+
+function enumerate() { 
+	v=arguments;
+	s={
+		all:[],
+		keys:v
+	};
+	for(i=v.length;i--;) {
+		s[v[i]]=s.all[i]=v[i];
+		return s; 
+	}
+};
+*/
